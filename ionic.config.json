@@ -1,0 +1,8 @@
+{
+  "name": "temple-app",
+  "app_id": "213ed54f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
