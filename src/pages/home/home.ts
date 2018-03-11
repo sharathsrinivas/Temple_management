@@ -22,4 +22,15 @@ export class HomePage {
     console.log('ionViewDidLoad HomePage');
   }
 
+  swipe(event) {
+    if (event.direction === 2) {
+      console.log("swiped right");
+    }
+    if (event.direction === 2) {
+alert("hi")    }
+    if (event.direction === 4) {
+      console.log("swiped left");
+    }
+  }
+
 }
